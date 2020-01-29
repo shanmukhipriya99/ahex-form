@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(images.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 40px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.label{
+    font-size: 19px;
+    margin-top: 20px;
+    font-weight: normal;
+}
+.form-control{
+    background: rgba(255,255,255,0.2);
+    border: 1px solid black;
+    border-radius: 6px;
+    border-bottom: 2px solid white;
+    font-size: 21px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+small{
+    font-size: 18px;
+    color: lightgray;
+    margin-left: 60px;
+}
+.btn-success{
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 180px;
+    font-size: 19px;
+    border-radius: 1000px;
+}
+.col-md-6{
+    background: rgba(0,0,0,0.4);
+    height: 680px;
+    box-shadow: -1px 1px 60px 10px black inset;
+}
