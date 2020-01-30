@@ -16,8 +16,8 @@ h1{
     text-align: center;
 }
 .label{
-    font-size: 19px;
-    margin-top: 20px;
+    font-size: 20px;
+    margin-top: 15px;
     font-weight: normal;
 }
 .form-control{
@@ -25,7 +25,7 @@ h1{
     border: 1px solid black;
     border-radius: 6px;
     border-bottom: 2px solid white;
-    font-size: 21px;
+    font-size: 20px;
     color: white;
     margin-top: 20px;
     margin-left: 60px;
@@ -35,13 +35,7 @@ small{
     color: lightgray;
     margin-left: 60px;
 }
-.btn-success{
-    margin-top: 20px;
-    margin-left: 150px;
-    width: 180px;
-    font-size: 19px;
-    border-radius: 1000px;
-}
+
 .col-md-6{
     background: rgba(0,0,0,0.4);
     height: 680px;
